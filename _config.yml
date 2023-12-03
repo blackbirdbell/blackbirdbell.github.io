@@ -124,19 +124,20 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 # black 000000,
-# magnolia fcf7ff,
-# French Gray c4cad0,
-# Bronze cd7f32,
-# Scarlet f6390f
+# magnolia FCF7FF,
+# French Gray C4CAD0,
+# Bronze CD7F32,
+# Scarlet F6390F
+
 navbar-col: "#C4CAD0"
 navbar-text-col: "#000000"
-navbar-border-col: "#C4CAD0"
-page-col: "#FFFFFF"
-text-col: "#404040"
+navbar-border-col: "#CD7F32"
+page-col: "#000000"
+text-col: "#C4CAD0"
 link-col: "#F6390F"
-hover-col: "#0085A1"
+hover-col: "#F6390F"
 footer-col: "#C4CAD0"
-footer-text-col: "#777777"
+footer-text-col: "#000000"
 footer-link-col: "#CD7F32"
 footer-hover-col: "#F6390F"
 
