@@ -128,7 +128,7 @@ navbar-var-length: false
 # Bronze CD7F32,
 # Scarlet F6390F
 
-navbar-col: "#C4CAD0"
+navbar-col: "#000000"
 navbar-text-col: "#C4CAD0"
 navbar-border-col: "#CD7F32"
 page-col: "#FCF7FF"
