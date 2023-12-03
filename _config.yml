@@ -128,15 +128,15 @@ navbar-var-length: false
 # Bronze CD7F32,
 # Scarlet F6390F
 
-navbar-col: "#C4CAD0"
-navbar-text-col: "#000000"
+navbar-col: "#000000"
+navbar-text-col: "#C4CAD0"
 navbar-border-col: "#CD7F32"
-page-col: "#000000"
-text-col: "#C4CAD0"
-link-col: "#F6390F"
+page-col: "#FCF7FF"
+text-col: "#000000"
+link-col: "#CD7F32"
 hover-col: "#F6390F"
-footer-col: "#C4CAD0"
-footer-text-col: "#000000"
+footer-col: "#000000"
+footer-text-col: "#C4CAD0"
 footer-link-col: "#CD7F32"
 footer-hover-col: "#F6390F"
 
