@@ -20,8 +20,7 @@ author: Ryan Kladar
 ###############################################
 
 navbar-links:
-  Jump:
-    - Articles: "kladar.github.io/articles"
+  Articles: "kladar.github.io/articles"
   About Me: "aboutme"
   
 
