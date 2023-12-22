@@ -111,7 +111,15 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "blackbirdbell,energy transition, lightweight clean energy software, clean software, clean energy, climate software, \
+ climate change, climate, energy, energy transition, energy software, energy data, energy data science, \
+ solar, wind, wind energy, solar energy, renewable energy, renewable energy software, \
+ energy storage, energy storage software, energy storage data, energy storage data science, \
+ energy storage analytics, energy storage analytics software, energy storage analytics data, energy storage analytics data science, \
+ energy efficiency, energy efficiency software, energy efficiency data, energy efficiency data science, \
+ geothermal, geothermal energy, geothermal energy software, geothermal energy data, geothermal energy data science, \
+ utility, utility software, utility data, utility data science, \
+ "
 
 ######################################
 # --- Colours / background image --- #
