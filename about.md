@@ -11,5 +11,3 @@ Blackbird Bell is a new kind of software consultancy, one that provides lightwei
 That said, much if not most of the energy transition will be built by the people writing essential policy and putting new infrastructure in the ground. You're already an expert in your domain - you shouldn't have to be an expert in software trends too. I'm here to take the software and analytics off your plate so you can focus on what you do best, with solutions delivered in days-to-weeks (not years).
 
 Contact us today to learn more about how Blackbird Bell can help you and your team get the tools they need so they can get to decarbonizing.
-
-```
