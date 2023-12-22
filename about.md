@@ -11,3 +11,5 @@ That said, much if not most of the energy transition will be built by the people
 Blackbird Bell is a new kind of software consultancy, one that provides lightweight software to the people and companies at the forefront of the energy transition. I'm Ryan, founder of Blackbird Bell, and I've worked my entire career at the intersection of climate, energy, and software. I'm here to take the software and analytics off your plate so you can focus on what you do best, with solutions delivered in days-to-weeks (not years).
 
  Contact me today to learn more about how Blackbird Bell can help you and your team get the tools they need so they can get to decarbonizing. Email, twitter, and linkedin links below.
+
+For information on the name _Blackbird Bell_, see the [post](blackbirdbell.com/bell-and-blackbird).

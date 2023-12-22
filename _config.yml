@@ -19,6 +19,9 @@ author: Blackbird Bell
 
 navbar-links:
   About: "about"
+  Posts: 
+    - The Bell and the Blackbird: "posts/the-bell-and-the-blackbird"
+  
   
 
 ################
