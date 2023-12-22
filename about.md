@@ -12,4 +12,4 @@ Blackbird Bell is a new kind of software consultancy, one that provides lightwei
 
  Contact me today to learn more about how Blackbird Bell can help you and your team get the tools they need so they can get to decarbonizing. Email, twitter, and linkedin links below.
 
-For information on the name _Blackbird Bell_, see the [post](www.blackbirdbell.com/posts/the_bell_and_the_blackbird).
+For information on the name _Blackbird Bell_, see the post up in "Posts".
