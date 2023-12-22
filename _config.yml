@@ -126,17 +126,17 @@ navbar-var-length: false
 # Bronze CD7F32,
 # Scarlet F6390F
 
-navbar-col: "#000000"
-navbar-text-col: "#C4CAD0"
-navbar-border-col: "#CD7F32"
-page-col: "#FCF7FF"
-text-col: "#000000"
-link-col: "#CD7F32"
-hover-col: "#F6390F"
-footer-col: "#000000"
-footer-text-col: "#C4CAD0"
-footer-link-col: "#CD7F32"
-footer-hover-col: "#F6390F"
+navbar-col: "#000000" # black
+navbar-text-col: "#C4CAD0" # French Gray
+navbar-border-col: "#CD7F32" # Bronze
+page-col: "#000000" # magnolia
+text-col: "#FCF7FF" # black
+link-col: "#CD7F32" # Bronze
+hover-col: "#F6390F" # Scarlet
+footer-col: "#000000" # black
+footer-text-col: "#C4CAD0" # French Gray
+footer-link-col: "#CD7F32" # Bronze
+footer-hover-col: "#F6390F" # Scarlet
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
