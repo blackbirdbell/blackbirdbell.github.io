@@ -40,7 +40,7 @@ The name _Blackbird Bell_ comes from a poem by David Whyte called "The Bell and 
 > by every corner\
 > of the world\
 > crying\
-> allelujah.\
+> allelujah.
 
 The poem is about the constant decision we make to live and enjoy the world as it is, or to invest and learn and grow in the world as it could be.  It's about the tension between the two, and the courage it takes to live in that tension.  
 
